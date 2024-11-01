@@ -5,3 +5,4 @@ seaborn
 matplotlib
 kaggle
 kagglehub
+jinja2

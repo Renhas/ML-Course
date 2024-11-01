@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 Flight Status Prediction/Combined_Flights_2022.csv
 Flight Status Prediction/Combined_Flights_2022.csv.zip
+Flight Status Prediction/Airlines.csv
